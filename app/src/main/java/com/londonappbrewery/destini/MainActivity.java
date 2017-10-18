@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
                         mButtonBottom.setVisibility(View.GONE);
                     }
                 } else {
-                    mStoryTextView.setText(R.string.T4_End);
+                    mStoryTextView.setText(R.string.T5_End);
                     mButtonTop.setVisibility(View.GONE);
                     mButtonBottom.setVisibility(View.GONE);
                 }
